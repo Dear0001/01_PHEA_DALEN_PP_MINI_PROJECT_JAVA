@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ProductController {
-    private static final String ROW_CONFIG_FILE = "src/main/java/org/example/controller/row_config.txt";
+    private static final String ROW_CONFIG_FILE = "src/main/java/org/kshrd/g3/controller/row_config.txt";
     String green="\u001B[32m";
     String red="\u001B[31m";
     String blue="\u001B[34m";
